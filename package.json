@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://172.31.22.178:8081/repository/isaac-project/"
+    "registry": "http://172.31.30.245:8081/repository/henry-project/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
